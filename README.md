@@ -9,6 +9,6 @@ Working Folder Location
 # How-To
 Clone the repo\
 Update config.ini file only as\
-`ProjectFolder=D:\Projects\djanogo\testbranch` (dont add `\` at end) \
+`ProjectFolder=D:\Projects\djanogo\testbranch` (don't add `\` at end) \
 Save\
-
+Double-Click on rmbr.bat
