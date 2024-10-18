@@ -6,4 +6,7 @@ This simple script will remove all those branches from developer end.
 Branch Selection
 Working Folder Location
 
-## Up Coming
+# How-To
+Clone the repo
+Update config.ini file 
+`ProjectFolder=C:\Users\ankilla\Desktop\testbranch`
