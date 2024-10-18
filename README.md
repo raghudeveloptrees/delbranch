@@ -1,5 +1,5 @@
 # Delete Branches
-After feature/patch/hotfix branches are meged with main branch and deleted in remote, the traces remains in VS Code.\n
+After feature/patch/hotfix branches are meged with main branch and deleted in remote, the traces remains in VS Code.\
 This simple script will remove all those branches from developer end.
 
 # Up Coming
